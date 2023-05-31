@@ -1,0 +1,9 @@
+diplomatic_news
+agricultural_news
+emergency_news
+scientific_news
+economic_news
+game_news
+football_yc
+stock_news
+music_news
